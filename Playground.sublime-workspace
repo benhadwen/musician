@@ -1,0 +1,1135 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"open",
+				"open-right"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"letter",
+				"letter-spacing"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"lt",
+				"lt-ie7"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"no",
+				"no-svg"
+			],
+			[
+				"t",
+				"target	@target"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n	\"folders\":\n	[\n		{\n			\"follow_symlinks\": true,\n			\"path\": \".\"\n		}\n	]\n}\n",
+			"file": "Playground.sublime-project",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hadwenb.UK/Sites/UniServer/www/hadwensites/playground/index.html.orig",
+		"/C/Users/hadwenb.UK/Sites/UniServer/www/hadwensites/musician/css/main.css",
+		"/C/Users/hadwenb.UK/Downloads/initializr-verekia-4.0/initializr/index.html",
+		"/C/Users/hadwenb.UK/Sites/UniServer/www/hadwensites/musician/css/layout.css",
+		"/C/Users/hadwenb.UK/Sites/UniServer/www/hadwensites/musician/index.html",
+		"/C/Users/hadwenb.UK/Sites/UniServer/www/hadwensites/musician/css/normalize.css",
+		"/C/Users/hadwenb.UK/Sites/UniServer/www/hadwensites/musician/js/main.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/js/webtrends.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/features/features.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/navigation/endheaderlinks.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/home/fullhomepage.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/competition/step_into_spring_error.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/competition/step_into_spring_confirmation.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/index.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/error.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/navigation/startheaderlinks.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/styles/static.css",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/images/aw13/layout/shop_the_look.svg",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/js/s_code.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/mothers day subnav.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/mothers day gifts under 30.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/mothers day gifts under 50.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/mothers day gifts under 100.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/mothers day gifts over 100.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/mothers day.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/images/ss14/homepage/products/ditsy_doris_twist_dress.jpg",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/styles/fonts/futurasbop-light-webfont.svg",
+		"/C/Users/hadwenb.UK/Desktop/todo.html",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/legal/left_menu.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/legal/left_menu_production.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/legal/pay14.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/legal/val14.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/Basics.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/lavender in provence.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/features/accessories.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/sass/ss14/features/accessories.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/includes/top-BEN.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-js/ss14/features/accessories2.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-js/ss14/features/modernizr.customb.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-js/ss14/features/cbpSplitLayout.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-js/ss14/features/accessories.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-js/ss14/features/classie.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/home/headermessage.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/legal/ss14-val.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/sass/ss14/features/features.scss",
+		"/C/Users/hadwenb.UK/Downloads/SplitLayout/SplitLayout/css/component.css",
+		"/C/Users/hadwenb.UK/Downloads/SplitLayout/SplitLayout/indexBen.html",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/features/testB.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-js/ss14/features/modernizr.custom.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/includes/top.htm",
+		"/C/Users/hadwenb.UK/Downloads/SplitLayout/SplitLayout/js/cbpSplitLayout.js",
+		"/C/Users/hadwenb.UK/Downloads/SplitLayout/SplitLayout/index.html",
+		"/C/Users/hadwenb.UK/Downloads/SplitLayout/SplitLayout/js/classie.js",
+		"/C/Users/hadwenb.UK/Downloads/SplitLayout/SplitLayout/css/demo.css",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/valentines day.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-js/ss14/FC_MainApplication.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/delivery/international delivery.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/legal/distance_selling_regs.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/legal/ss14-pp.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/legal/ss14-insert.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/legal/ss14-catalogue.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/sass/ss14/gateway.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/sass/ss14/mixins/_mixins.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/lookbook/lookbook-ss14.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/sass/ss14/lookbook/lookbook_ss14_jan.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman sale.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman sale dresses.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-js/ss14/category_promo_panel.js",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens knits.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman sale knits.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman sale coats and jackets.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman sale jeans.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman sale accessories.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman sale skirts and shorts.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman sale trousers.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman sale tops.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens Trousers.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens Skirts.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman sale shirts.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens Shirts.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens Dresses.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/features/features2.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/sass/ss14/partials/tcpl/_product.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/ss14/tcpl/product.css",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens tops subnav.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens dresses subnav.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens jeans subnav.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens coats subnav.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman prints.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens Jeans.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/delivery/returns_content.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/delivery/uk delivery.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/sass/ss14/partials/_menu.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/delivery/returns.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/xml/billingaddress.xml",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/product/size_information.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/woman new in.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens ss14 preview.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/ss14/master.css",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/sass/ss14/partials/_backpages.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/home/minibasketcontent.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/delivery/international delivery2.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/category/womens evening tops.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/config.rb",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/config.rb",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/sass/ss14/sizing.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/help/sizing.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/home/footercontent.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/sass/ss14/partials/_header_minibasket.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/sass/ss14/partials/tcpl/_category_banner.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/help/stores.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/sass/ss14/master.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/headers and footers/checkout/footer.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/storefinder/stores.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/xml/orderhistory.xml",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/headers and footers/category/header.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/headers and footers/category/footer.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/xml/orderhistory'broken.xml",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/ss14/lookbook/lookbook_ss14_jan.css",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/sass/ss14/lookbook/partials/_lb_mqv.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/sass/ss14/partials/tcpl/_category.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/ss14/tcpl/category.css",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/competition/step_into_spring_terms.htm",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/sass/ss14/competition/step_into_spring.scss",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/ss14/competition/step_into_spring.css",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/content/competition/step_into_spring_terms",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/fc-css/aw13/sale.css",
+		"/C/Users/hadwenb.UK/Desktop/UniServer/www/stormsites/gp/css/sass/ss14/partials/_TCPL.scss"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\armstrongc\\Desktop\\config_fcuk_v075_tegan"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"7deg",
+			"+",
+			"<",
+			"+",
+			"s+",
+			"?WT.mc_id=SS14_GP_10022014_feature4",
+			"+",
+			"http://www.greatplains.co.uk",
+			"+",
+			"Ditsy_Doris_Twist_Detail_Dress",
+			"+",
+			"http://www.greatplains.co.uk",
+			"’",
+			"location",
+			"hub",
+			"sharkName",
+			"• ",
+			"Lace",
+			"+",
+			"http://www.greatplains.co.uk",
+			"+",
+			"close-right",
+			"outline",
+			"&WT",
+			"’",
+			"consol",
+			".overlay",
+			"safari-dt",
+			"z-index",
+			"safari",
+			"allowCSS3",
+			".open-right .page-right",
+			".open-right .side-right",
+			"border",
+			"border:1",
+			"border",
+			".codropsheader",
+			"z-index",
+			"mq",
+			"z-index",
+			"overlay",
+			"body",
+			"style",
+			"body",
+			"open-right",
+			".querySelector",
+			".open-right .side-right .intro-content",
+			"outline",
+			".side-right",
+			"mobile-layout",
+			"+",
+			"2em",
+			".splitlayout",
+			"h1",
+			".team_with",
+			"• ",
+			"mobilecheck",
+			"$featureheight",
+			"body",
+			"mq",
+			"+",
+			"modernizr",
+			".back",
+			"-webkit-transform: translateY(-15%)",
+			".open-right .side-right .intro-content",
+			".intro-content",
+			".acc-wrap",
+			".side-right",
+			".intro-content",
+			".splitlayout.open-right",
+			"34495e",
+			"#34495e",
+			".intro-content h1",
+			".splitlayout.open-right",
+			".splitlayout.open-left",
+			"height",
+			".page-right",
+			".intro-content h1>span:first-child",
+			".side-left",
+			"·",
+			"+",
+			"y+",
+			"+",
+			"D",
+			"+",
+			"’",
+			"_searchbox",
+			"search",
+			"bx",
+			"+",
+			"/product/j4bas/Get+Spotted+Slim+Jeans.htm?WT.mc_id=SS14_GP_29012014_feature4",
+			"sail_away_canvas_brogue",
+			" ",
+			"?WT.mc_id=homepage_TWF_29012014",
+			"VIOLETTE JERSEY TWIST DRESS",
+			"6.2",
+			"h2",
+			"”",
+			"“",
+			"style news",
+			"+",
+			"?tracking_code_here",
+			"+",
+			"J41ZD",
+			"pin",
+			"pinit",
+			"pin",
+			"nav#siteNav>ul>li#sale_nav>a:hover",
+			"nav#siteNav > ul > li > a:hover",
+			"nav#siteNav>ul>li>a:hover",
+			"select",
+			".international-delivery-container .ul-quick-nav li a",
+			"#delivery-info-tbl",
+			"delivery",
+			"?WT.mc_id=SS14_GP_29012014_feature2",
+			"?tracking_code_here",
+			"jack",
+			"/ €",
+			".sizing_box",
+			"h1",
+			"removeFromBasketButton",
+			"id=",
+			"Northern Ireland",
+			"Scotland",
+			"Telford",
+			"London",
+			"tyne",
+			"Newcastle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Playground.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "Playground.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"work",
+				"content\\category\\Workwear.htm"
+			],
+			[
+				"full",
+				"content\\home\\fullhomepage.htm"
+			],
+			[
+				"feat",
+				"content\\features\\features.htm"
+			],
+			[
+				"end",
+				"content\\navigation\\endheaderlinks.htm"
+			],
+			[
+				"feature",
+				"content\\features\\features.htm"
+			],
+			[
+				"start",
+				"content/navigation/startheaderlinks.htm"
+			],
+			[
+				"lav",
+				"content/category/lavender in provence.htm"
+			],
+			[
+				"topben",
+				"includes/top-BEN.htm"
+			],
+			[
+				"ful",
+				"content/home/fullhomepage.htm"
+			],
+			[
+				"header",
+				"content/home/headermessage.htm"
+			],
+			[
+				"accessor",
+				"fc-css/sass/ss14/features/accessories.scss"
+			],
+			[
+				"access",
+				"content/features/accessories.htm"
+			],
+			[
+				"top",
+				"includes/top.htm"
+			],
+			[
+				"top.htm",
+				"includes/top.htm"
+			],
+			[
+				"fu",
+				"content/home/fullhomepage.htm"
+			],
+			[
+				"intern",
+				"content/delivery/international delivery.htm"
+			],
+			[
+				"loo",
+				"content/lookbook/lookbook-ss14.htm"
+			],
+			[
+				"look",
+				"content/lookbook/lookbook-ss14.htm"
+			],
+			[
+				"womensjeans",
+				"content/category/womens Jeans.htm"
+			],
+			[
+				"uk",
+				"content/delivery/uk delivery.htm"
+			],
+			[
+				"ukdel",
+				"content/delivery/uk delivery.htm"
+			],
+			[
+				"star",
+				"content/navigation/startheaderlinks.htm"
+			],
+			[
+				"recon",
+				"content/delivery/returns_content.htm"
+			],
+			[
+				"re",
+				"content/delivery/returns.htm"
+			],
+			[
+				"lookbook",
+				"content/lookbook/lookbook-ss14.htm"
+			],
+			[
+				"index",
+				"index.htm"
+			],
+			[
+				"stores",
+				"content/storefinder/stores.htm"
+			],
+			[
+				"lo",
+				"content/lookbook/lookbook-ss14.htm"
+			],
+			[
+				"sitemap",
+				"content/sitemap/sitemap.htm"
+			],
+			[
+				"mqv",
+				"fc-css/sass/ss14/lookbook/partials/_lb_mqv.scss"
+			],
+			[
+				"mix",
+				"css/sass/ss14/mixins/_mixins.scss"
+			],
+			[
+				"retur",
+				"styles/returns.htm"
+			],
+			[
+				"sale.css",
+				"fc-css/aw13/sale.css"
+			],
+			[
+				"priv",
+				"content/privacy/privacy policy.htm"
+			],
+			[
+				"cook",
+				"content/privacy/cookie policy.htm"
+			],
+			[
+				"aff",
+				"content/help/affiliates.htm"
+			],
+			[
+				"csr",
+				"content/help/csr.htm"
+			],
+			[
+				"vat",
+				"content/help/vat.htm"
+			],
+			[
+				"how",
+				"content/help/how to order.htm"
+			],
+			[
+				"ukd",
+				"content/delivery/uk delivery.htm"
+			],
+			[
+				"inter",
+				"content/delivery/international delivery.htm"
+			],
+			[
+				"",
+				"fc-js/ss14/FC_MainApplication.js"
+			],
+			[
+				"pro",
+				"styles/product.css"
+			],
+			[
+				"siz",
+				"content/help/sizing.htm"
+			],
+			[
+				"howto",
+				"content/help/how to order.htm"
+			],
+			[
+				"term",
+				"content/legal/terms and conditions.htm"
+			],
+			[
+				"womenac",
+				"content/category/womens Accessories.htm"
+			],
+			[
+				"womesh",
+				"content/category/womens Shirts.htm"
+			],
+			[
+				"womenkni",
+				"content/category/womens knits.htm"
+			],
+			[
+				"lookbook-ss",
+				"content/lookbook/lookbook-ss14.htm"
+			],
+			[
+				"master",
+				"css/ss14/master.css"
+			],
+			[
+				"mast",
+				"css/ss14/master.css"
+			],
+			[
+				"mas",
+				"css/ss14/master.css"
+			],
+			[
+				"terms",
+				"content/legal/terms and conditions.htm"
+			],
+			[
+				"affil",
+				"content/help/affiliates.htm"
+			],
+			[
+				"fullhome",
+				"content/home/fullhomepage.htm"
+			],
+			[
+				"master.css",
+				"css/ss14/master.css"
+			],
+			[
+				"affili",
+				"content/help/affiliates.htm"
+			],
+			[
+				"sizing",
+				"content/help/sizing.htm"
+			],
+			[
+				"privac",
+				"content/privacy/privacy policy.htm"
+			],
+			[
+				"helphow",
+				"content/help/how to order.htm"
+			],
+			[
+				"lookscss",
+				"fc-css/.sass-cache/1be17aacff61162d7485d7da57ac8970d58ca4a0/lookbook_ss14_jan.scssc"
+			],
+			[
+				"lookbook.",
+				"fc-js/aw13/lookbook.js"
+			],
+			[
+				"sale",
+				"fc-css/aw13/sale.css"
+			],
+			[
+				"delivery/re",
+				"content/delivery/returns.htm"
+			],
+			[
+				"awpp",
+				"content/legal/AW13-pp.htm"
+			],
+			[
+				"bottom",
+				"includes/bottom_end.htm"
+			],
+			[
+				"store",
+				"content/storefinder/stores.htm"
+			],
+			[
+				"return",
+				"styles/returns.htm"
+			],
+			[
+				"affi",
+				"content/help/affiliates.htm"
+			],
+			[
+				"bott",
+				"includes/bottom_end.htm"
+			],
+			[
+				"sizin",
+				"content/help/sizing.htm"
+			],
+			[
+				"main",
+				"fc-js/ss14/FC_MainApplication.js"
+			],
+			[
+				"dynamic",
+				"content/navigation/dynamic_menu.htm"
+			],
+			[
+				"nav",
+				"includes/navigation.htm"
+			],
+			[
+				"bottom_e",
+				"includes/bottom_end.htm"
+			],
+			[
+				"mainapp",
+				"fc-js/ss14/FC_MainApplication.js"
+			],
+			[
+				"grid",
+				"css/aw13/grid_fluid.css"
+			],
+			[
+				"grid_fl",
+				"css/sass/ss14/partials/_grid_fluid.scss"
+			],
+			[
+				"minibasket.htm",
+				"includes/minibasket.htm"
+			],
+			[
+				"foo",
+				"content/home/footercontent.htm"
+			],
+			[
+				"footer",
+				"css/sass/ss14/partials/_footer.scss"
+			],
+			[
+				"bottom_end",
+				"includes/bottom_end.htm"
+			],
+			[
+				"bottom_start",
+				"includes/bottom_start.htm"
+			],
+			[
+				"news",
+				"tcpl/newsletter.htm"
+			],
+			[
+				"error",
+				"tcpl/error.htm"
+			],
+			[
+				"contact-us",
+				"tcpl/contact-us.htm"
+			],
+			[
+				"cata",
+				"tcpl/catalogue.htm"
+			],
+			[
+				"404",
+				"tcpl/404.htm"
+			],
+			[
+				"gift",
+				"content/category/Gifting.htm"
+			],
+			[
+				"layout",
+				"fc-css/aw13/layout_amend.css"
+			],
+			[
+				"hom",
+				"fc-css/aw13/homepage.css"
+			],
+			[
+				"bes",
+				"content/category/Woman Bestsellers.htm"
+			],
+			[
+				"shirts",
+				"content/category/womens Shirts.htm"
+			],
+			[
+				"acces",
+				"content/category/womens Accessories.htm"
+			],
+			[
+				"basics",
+				"content/category/Basics.htm"
+			],
+			[
+				"skirt",
+				"content/category/womens Skirts.htm"
+			],
+			[
+				"wotr",
+				"content/category/womens Trousers.htm"
+			],
+			[
+				"wojea",
+				"content/category/womens Jeans.htm"
+			],
+			[
+				"womenshi",
+				"content/category/womens Shirts.htm"
+			],
+			[
+				"knit",
+				"content/category/womens knits.htm"
+			],
+			[
+				"womcasuto",
+				"content/category/womens Casual Tops.htm"
+			],
+			[
+				"wocoat",
+				"content/category/womens Coats And Jackets.htm"
+			],
+			[
+				"wodre",
+				"content/category/womens Dresses.htm"
+			],
+			[
+				"wobes",
+				"content/category/Woman Bestsellers.htm"
+			],
+			[
+				"womannew",
+				"content/category/woman new in.htm"
+			],
+			[
+				"wosk",
+				"content/category/womens Skirts.htm"
+			],
+			[
+				"nigh",
+				"content/category/Nightwear.htm"
+			],
+			[
+				"wonewi",
+				"content/category/woman new in.htm"
+			],
+			[
+				"woshi",
+				"content/category/womens Shirts.htm"
+			],
+			[
+				"dresses",
+				"content/category/womens Dresses.htm"
+			],
+			[
+				"womenstr",
+				"content/category/womens Trousers.htm"
+			],
+			[
+				"womencas",
+				"content/category/womens Casual Tops.htm"
+			],
+			[
+				"woskir",
+				"content/category/womens Skirts.htm"
+			],
+			[
+				"womsh",
+				"content/category/womens Shirts.htm"
+			],
+			[
+				"night",
+				"content/category/Nightwear.htm"
+			],
+			[
+				"womnew",
+				"content/category/woman new in.htm"
+			],
+			[
+				"womenskn",
+				"content/category/womens knits.htm"
+			],
+			[
+				"womensjean",
+				"content/category/womens Jeans.htm"
+			],
+			[
+				"womensdre",
+				"content/category/womens Dresses.htm"
+			],
+			[
+				"womenscoat",
+				"content/category/womens Coats And Jackets.htm"
+			],
+			[
+				"womancoat",
+				"content/category/woman sale coats and jackets.htm"
+			],
+			[
+				"category",
+				"fc-css/aw13/category_aw13.css"
+			],
+			[
+				"womanbest",
+				"content/category/Woman Bestsellers.htm"
+			],
+			[
+				"basic",
+				"content/category/Basics.htm"
+			],
+			[
+				"aw13_e",
+				"fc-css/aw13/competitions/aw13_edit_competition.css"
+			],
+			[
+				"anim",
+				"content/category/Animal Magic.htm"
+			],
+			[
+				"jeans",
+				"content/category/womens Jeans.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\hadwenb.UK\\Desktop\\UniServer\\www\\sublime\\FCUK-local.sublime-project"
+			],
+			[
+				"fcc",
+				"/C/Users/hadwenb.UK/Desktop/UniServer/www/sublime/FCCA-local.sublime-project"
+			],
+			[
+				"FC",
+				"/C/Users/hadwenb.UK/Desktop/UniServer/www/sublime/FCUK-local.sublime-project"
+			],
+			[
+				"fc",
+				"/C/Users/hadwenb.UK/Desktop/UniServer/www/sublime/FCUK-local.sublime-project"
+			],
+			[
+				"fcuk",
+				"/Q/E-COMMERCE-TEAM/UniServer/www/sublime/FCUK.sublime-project"
+			],
+			[
+				"gp",
+				"//192.168.11.35/Ecommerce/E-COMMERCE-TEAM/UniServer/www/sublime/GP.sublime-project"
+			],
+			[
+				"fcus",
+				"//192.168.11.35/Ecommerce/E-COMMERCE-TEAM/UniServer/www/sublime/FCUS.sublime-project"
+			],
+			[
+				"fcca",
+				"//192.168.11.35/Ecommerce/E-COMMERCE-TEAM/UniServer/www/sublime/FCCA.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
